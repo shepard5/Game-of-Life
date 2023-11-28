@@ -1,7 +1,7 @@
 # Game-of-Life---John-Conway
-Simulation with code of John Conway's Game of Life - Editable Parameters
+Simulation with code of John Conway's Game of Life - with editable parameters
 
-Just for fun wanted to see how difficult it would be to code The Game of Life in python. The video embedded below is a screen recording of the final result. With the code provided, the game initializes with a random array of 'alive' and 'dead' cells. Array dimensions can be changed under the array class and simulation playback speed can be changed at the bottom in the matplotlib animation (interval = 50 indicating 50 ms per frame). Not optimized for efficiency.
+Just for fun - I wanted to see how long it would take to code The Game of Life and simulate in python. The video embedded below is a screen recording of the final result. With the code provided, the game initializes with a random assignment of 'alive' and 'dead' cells. Array dimensions can be changed under the array class and simulation playback speed can be changed at the bottom in the matplotlib animation (interval = 50 indicating 50 ms per frame). Not optimized for efficiency.
 
 I recommend watching these videos (I claim no ownership for either youtube video).
 

@@ -6,6 +6,7 @@ Just for fun wanted to see how difficult it would be to code The Game of Life in
 I recommend watching these videos (I claim no ownership for either youtube video).
 
 https://www.youtube.com/watch?v=xP5-iIeKXE8
+
 https://www.youtube.com/watch?v=R9Plq-D1gEk
 
 The Game of Life is fascinating and invokes powerful philosophical thought.
